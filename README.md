@@ -21,6 +21,14 @@ MatErials Graph Network (MEGNet): https://github.com/materialsvirtuallab/megnet 
 
 Orbital Graph Convolutional Neural Network (OGCNN): https://github.com/RishikeshMagar/OGCNN [Phys. Rev. Mater. 4, 093801 (2020)]
 
+# Dataset
+Dielecric constant: [J. Chem. Phys. 153, 024503 (2020)]
+PBE(+U)-level DFT band gap: [Phys. Rev. Lett. 120, 145301 (2018)]
+HSE06-level DFT band gap: [Sci. Data 7, 387 (2020)]
+Experimental band gap: [J. Chem. Theory Comput. 15, 5069-5079 (2019)]
+PBE(+U)-level DFT formation enthalpy: [Phys. Rev. Lett. 120, 145301 (2018)]
+Experimental formation enthalpy: [JACS Au 2 (9), 1964-1977 (2022)]
+
 # Produce data from a CIF file
 python data.py
 

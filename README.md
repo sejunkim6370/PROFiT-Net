@@ -1,4 +1,4 @@
-PRoperty-networking Orbital Field maTrix-convolutional neural Network (PROFiT-Net)
+# PRoperty-networking Orbital Field maTrix-convolutional neural Network (PROFiT-Net)
 
 # Package
 python==3.8 
@@ -32,7 +32,7 @@ Experimental band gap: [J. Chem. Theory Comput. 15, 5069-5079 (2019)]
 
 PBE(+U)-level DFT formation enthalpy: [Phys. Rev. Lett. 120, 145301 (2018)]
 
-Experimental formation enthalpy: [JACS Au 2 (9), 1964-1977 (2022)]
+Experimental formation enthalpy: [JACS Au 2, 1964-1977 (2022)]
 
 # Produce data from a CIF file
 python data.py

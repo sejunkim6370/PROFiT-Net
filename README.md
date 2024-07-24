@@ -29,3 +29,6 @@ python main.py
 
 # Predict a target property using the model
 python predict.py
+
+# Request pretrained models
+Contact: linus16@kaist.ac.kr

@@ -34,7 +34,7 @@ PBE(+U)-level DFT formation enthalpy: [Phys. Rev. Lett. 120, 145301 (2018)]
 
 Experimental formation enthalpy: [JACS Au 2, 1964-1977 (2022)]
 
-# Produce data from a CIF file
+# Produce PROFiT from a CIF file
 python data.py
 
 # Train and validate the model

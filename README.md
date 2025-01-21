@@ -44,4 +44,4 @@ python main.py
 python predict.py
 
 # Pretrained models
-Contact: linus16@kaist.ac.kr
+Contact: sjkim6370@kaist.ac.kr

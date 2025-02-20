@@ -1,15 +1,15 @@
 # PRoperty-networking Orbital Field maTrix-convolutional neural Network (PROFiT-Net)
 
 # Package
-python==3.8 
+python
 
-tensorflow==2.2.0
+tensorflow
 
-numpy==1.18.5
+numpy
 
-pymatgen==2023.2.22
+pymatgen
 
-matminer==0.7.4
+matminer
 
 # Setup for PROFiT
 cp matrix.py cgcnn_atom_feature.json Polarizability.table matminer/featurizers/structure
